@@ -1,4 +1,4 @@
-![logo](https://github.com/maheshbhadane18/maheshbhadane18/blob/main/Untitled%20design.png)
+![logo](https://github.com/maheshbhadane18/maheshbhadane18/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mahesh Bhadane</h1>
 <h3 align="center">A passionate Data Analyst and Data Enthusiast.</h3>
 
