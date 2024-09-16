@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data analysis, Analytics, Data mining, Data cleansing, Predictive analytics, Statistics, Data visualization, Data engineering, Machine learning, Artificial intelligence (AI)**
 
-- 📫 How to reach me **maheshbhadane.189@gmail.com**
+- 📫 How to reach me **bhadanemahesh77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
